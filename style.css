@@ -17,9 +17,10 @@
     
 }
 .calculator{
-    border: 1px solid #fff;
+    border: 1px solid red;
     padding: 20px;
     border-radius: 5px;
+    box-shadow: inset 0px 0px 10px red;
 }
 .heading{
     display: flex;
